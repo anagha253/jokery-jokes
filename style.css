@@ -1,0 +1,9 @@
+body{
+    width: 250px;
+    height: 100px;
+    background-color: brown;
+    text-align: center;
+    text-decoration: black;
+    font-weight: bold;
+    font-size: medium;
+}
